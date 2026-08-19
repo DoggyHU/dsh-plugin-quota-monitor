@@ -4,6 +4,12 @@ A DSH (DeepSeek Harness) **quota & balance monitor** in the sidebar footer: an a
 
 RPG mapping: **HP (red) = monthly · MP (blue) = weekly · SP (yellow) = 5h quota · Rage (gold) = DeepSeek balance**.
 
+## Preview
+
+| SCNet (credits) | OpenCode Go (HP / MP / SP) |
+|---|---|
+| ![scnet](docs/preview/card-scnet.png) | ![opencode](docs/preview/card-opencode.png) |
+
 ## Features
 
 - **Rage (gold, always shown)**: live DeepSeek balance from the official API (`api.deepseek.com/user/balance`), remaining ¥.

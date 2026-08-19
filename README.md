@@ -5,6 +5,12 @@ DSH（DeepSeek Harness）侧边栏底部的**额度与余额监控**插件：一
 
 RPG 风格的映射：**HP 血（红）= 月额度 · 魔法 MP（蓝）= 周额度 · 耐力 SP（黄）= 5h 额度 · 怒气 Rage（金）= DeepSeek 余额**。
 
+## 预览
+
+| 国家超算中心（scnet · Credits） | OpenCode Go（HP / MP / SP） |
+|---|---|
+| ![scnet](docs/preview/card-scnet.png) | ![opencode](docs/preview/card-opencode.png) |
+
 ## 功能
 
 - **怒气 Rage（金，始终显示）**：DeepSeek 官方接口实时余额（`api.deepseek.com/user/balance`），显示 ¥ 剩余金额。
