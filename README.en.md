@@ -47,7 +47,7 @@ Open **Settings → Plugin Management → Balance Monitor**:
 
 - **Data source**: Auto (follow default model) / OpenCode Go / SCNet.
 - **OpenCode meters shown**: monthly (HP) / weekly (MP) / 5h (SP) toggles.
-- **SCNet Credits**: monthly quota (default 60,000, 基础版) and the model rate table (Credits per M tokens, editable JSON).
+- **SCNet Credits**: monthly quota (default 60,000, 基础版), **monthly reset day** (the Token Plan resets on your billing cycle, not necessarily the 1st — enter the reset day 1-28 shown in the console; the plugin counts from the last reset day to today) and the model rate table (Credits per M tokens, editable JSON).
 - **Always show the DeepSeek Rage row**.
 
 Config is stored at `$DSH_HOME/storages/quota-monitor-config.json`.
