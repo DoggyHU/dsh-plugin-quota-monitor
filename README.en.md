@@ -10,6 +10,10 @@ RPG mapping: **HP (red) = monthly · MP (blue) = weekly · SP (yellow) = 5h quot
 |---|---|
 | ![scnet](docs/preview/card-scnet.png) | ![opencode](docs/preview/card-opencode.png) |
 
+Settings page (**Settings → Plugin Management → Balance Monitor**):
+
+![settings](docs/preview/settings.png)
+
 ## Features
 
 - **Rage (gold, always shown)**: live DeepSeek balance from the official API (`api.deepseek.com/user/balance`), remaining ¥.

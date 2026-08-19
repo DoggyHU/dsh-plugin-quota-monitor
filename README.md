@@ -11,6 +11,10 @@ RPG 风格的映射：**HP 血（红）= 月额度 · 魔法 MP（蓝）= 周额
 |---|---|
 | ![scnet](docs/preview/card-scnet.png) | ![opencode](docs/preview/card-opencode.png) |
 
+设置页（**设置 → 插件管理 → 余额监控**）：
+
+![settings](docs/preview/settings.png)
+
 ## 功能
 
 - **怒气 Rage（金，始终显示）**：DeepSeek 官方接口实时余额（`api.deepseek.com/user/balance`），显示 ¥ 剩余金额。
